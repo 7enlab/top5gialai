@@ -8,3 +8,6 @@
 .content li{margin-bottom:6px}
 .content img{max-width:100%;height:auto;border-radius:12px}
 @media(max-width:640px){.content h1{font-size:28px}.content h2{font-size:21px}}
+
+.brand{display:flex;align-items:center;gap:10px}
+.brand img{width:36px;height:36px;display:block}
