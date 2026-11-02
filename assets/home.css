@@ -11,3 +11,6 @@
 
 .brand{display:flex;align-items:center;gap:10px}
 .brand img{width:36px;height:36px;display:block}
+.content figure.lead{margin:0 0 24px}
+.content figure.lead img{width:100%;border-radius:12px}
+.content figure.lead figcaption{font-size:14px;color:#6b7280;margin-top:8px}
